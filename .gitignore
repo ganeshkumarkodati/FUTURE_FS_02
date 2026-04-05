@@ -1,0 +1,19 @@
+# Dependency folders
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Local databases
+database.sqlite
+leads.db
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+
+# Editor folders
+.vscode/
+.idea/
